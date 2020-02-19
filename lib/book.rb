@@ -1,6 +1,6 @@
 class Book 
   def
-  initialize(title)
+  initialize(title = "And Then There Were None")
   @title = title
 end
 
