@@ -33,5 +33,7 @@ def genre
 end
 
 def turn_page
+  puts "Flipping the page...wow, read fast!"
 end
+
 end
